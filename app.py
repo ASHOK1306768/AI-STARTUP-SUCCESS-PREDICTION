@@ -51,7 +51,7 @@ html, body { background: #10131C !important; }
     font-family: 'Space Grotesk', sans-serif;
     font-weight: 700;
     font-size: clamp(2.1rem, 5vw, 3.4rem);
-    color: #EDEFF2;
+    color: #000000;
     margin: 0 0 0.7rem 0;
     line-height: 1.05;
 }
